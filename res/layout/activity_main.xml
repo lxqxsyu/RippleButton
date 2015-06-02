@@ -1,0 +1,11 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal"
+    android:paddingTop="50dip"
+    android:orientation="vertical" >
+	<com.example.myreveallayout.MyButton
+	    android:layout_width="260dip"
+	    android:layout_height="60dip"
+	    android:background="#4185f2"/>
+</LinearLayout>
